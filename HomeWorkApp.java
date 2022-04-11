@@ -2,7 +2,6 @@ package Lesson01.online;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
-
         printThreeWords();
         checkSumSign();
         printColor();
